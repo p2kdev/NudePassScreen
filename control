@@ -1,0 +1,10 @@
+Package: com.imkpatil.nudepassscreen
+Name: NudePassScreen
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description: Nudify the PassCode Screen!
+Maintainer: P2KDev <p2kdev@gmail.com>
+Author: P2KDev <p2kdev@gmail.com>
+Section: Tweaks
+Icon: file:///Library/Application Support/NudePassScreen/icon.png
